@@ -26,5 +26,3 @@ Board  | INT_PIN | SDA_PIN | SCL_PIN | VCC_PIN |
 1. Put the folder containing this README.md (and SerialTracker.ino) in your `Arduino` directory.
 1. Start Arduino IDE, open sketch and upload.
 
-If the I2CDevLib is broken (as currently seems the case) there will be strange compilation errors.  Try the [development branch](https://github.com/jrowberg/i2cdevlib/tree/develop) instead. 
-
